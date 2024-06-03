@@ -1,0 +1,99 @@
+[
+    {
+        "id":1,
+        "name": "Adventure Chronicles",
+        "title": "Unlock endless adventures with captivating stories in every page.",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717250940~exp=1717254540~hmac=8d934d684074edea94b592d686dd0fc70e43987cc42b2da488fc247f3882b3b6&w=740"
+    },
+    {
+        "id":2,
+        "name": "Giggles Galore",
+        "title": "Laugh out loud with every hilarious page turned.",
+        "price":20,
+        "category": "Entertainment",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717250940~exp=1717254540~hmac=8d934d684074edea94b592d686dd0fc70e43987cc42b2da488fc247f3882b3b6&w=740"
+    },
+    {
+        "id":3,
+        "name": "Thrill Tales",
+        "title": "Experience the thrill of the game with every chapter.",
+        "price":50,
+        "category": "Sports",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717250940~exp=1717254540~hmac=8d934d684074edea94b592d686dd0fc70e43987cc42b2da488fc247f3882b3b6&w=740"
+    },
+    {
+        "id":4,
+        "name": "Melody Memoirs",
+        "title": "Discover the magic of melodies in every note and story.",
+        "price":100,
+        "category": "Song",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717250940~exp=1717254540~hmac=8d934d684074edea94b592d686dd0fc70e43987cc42b2da488fc247f3882b3b6&w=740"
+    },
+    {
+        "id":5,
+        "name": "Savor Stories",
+        "title": "Savor delicious creations with every mouthwatering recipe.",
+        "price":200,
+        "category": "Food",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717250940~exp=1717254540~hmac=8d934d684074edea94b592d686dd0fc70e43987cc42b2da488fc247f3882b3b6&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Fantasy Tales",
+        "title": "Journey through mystical lands and epic adventures.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717250940~exp=1717254540~hmac=8d934d684074edea94b592d686dd0fc70e43987cc42b2da488fc247f3882b3b6&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Mystery Chronicles",
+        "title": "Unlock the secrets hidden in every gripping chapter.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717250940~exp=1717254540~hmac=8d934d684074edea94b592d686dd0fc70e43987cc42b2da488fc247f3882b3b6&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Adventure Awaits",
+        "title": "Embark on thrilling quests and daring escapades.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717250940~exp=1717254540~hmac=8d934d684074edea94b592d686dd0fc70e43987cc42b2da488fc247f3882b3b6&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Epic Sagas",
+        "title": "Discover tales of heroes, legends, and unforgettable journeys.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717250940~exp=1717254540~hmac=8d934d684074edea94b592d686dd0fc70e43987cc42b2da488fc247f3882b3b6&w=740"
+    },
+    {
+        "id": 10,
+        "name": "Enchanted Stories",
+        "title": "Dive into a world of magic, wonder, and enchantment.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717250940~exp=1717254540~hmac=8d934d684074edea94b592d686dd0fc70e43987cc42b2da488fc247f3882b3b6&w=740"
+    },
+    {
+        "id": 11,
+        "name": "Legendary Quests",
+        "title": "Unfold the tales of legendary heroes and their quests.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717250940~exp=1717254540~hmac=8d934d684074edea94b592d686dd0fc70e43987cc42b2da488fc247f3882b3b6&w=740"
+    },
+    {
+        "id": 12,
+        "name": "Whimsical Wonders",
+        "title": "Experience whimsical tales full of charm and delight.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717250940~exp=1717254540~hmac=8d934d684074edea94b592d686dd0fc70e43987cc42b2da488fc247f3882b3b6&w=740"
+    }
+    
+]
